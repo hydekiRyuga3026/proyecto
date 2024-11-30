@@ -1,0 +1,13 @@
+{
+    "name": "llelo/mi_proyecto",
+    "authors": [
+        {
+            "name": "hydekiRyuga3026",
+            "email": "llollol315@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^3.0",
+        "phpoffice/phpspreadsheet": "^3.4"
+    }
+}
